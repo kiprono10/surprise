@@ -1,0 +1,12 @@
+{
+  "name": "surprise",
+  "version": "1.0.0",
+  "description": "A surprise project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
